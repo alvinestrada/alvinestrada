@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alvinestrada
 - 👀 I’m interested in photography and weird places
-- 🌱 I’m currently learning Go Lang
+- 🌱 AI Builder
 - 💞️ I’m looking to collaborate on data related projects
 - 📫 How to reach me 
 
